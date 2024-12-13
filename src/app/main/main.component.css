@@ -1,19 +1,10 @@
 *{
-    
     text-align: center;
     list-style: none;
     padding: 0;
 }
     
-h1{
-    color: yellow;
-}
-
 h2{
     color:floralwhite;
 }
 
-alineacion{
-    display: flex;
-    justify-content: center;
-}
